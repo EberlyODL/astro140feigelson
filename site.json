@@ -1,0 +1,1148 @@
+{
+  "id": "3d402fd4-2625-45a6-b5a0-d53232694a7b",
+  "title": "astro140feigelson",
+  "author": "",
+  "description": "Astronomy course",
+  "license": "by-sa",
+  "metadata": {
+    "siteName": "astro140feigelson",
+    "image": "assets\/banner.jpg",
+    "theme": "default",
+    "icon": "icons:add-circle-outline",
+    "hexCode": "#bbbbbb",
+    "cssVariable": "--simple-colors--background4"
+  },
+  "location": "\/_sites\/astro140feigelson\/index.html",
+  "items": [
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Astro 140:  Life In the Universe (Instructor: Eric Ford)",
+      "parent": null,
+      "indent": 0,
+      "id": "2c7e3a8f-861a-48f6-af04-7bafbfa74fdd",
+      "order": "-15",
+      "location": "content/2c7e3a8f-861a-48f6-af04-7bafbfa74fdd.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Papers and PlanetHunters project",
+      "parent": "2c7e3a8f-861a-48f6-af04-7bafbfa74fdd",
+      "indent": 0,
+      "id": "a60b4df1-7e37-46f4-ba66-b44eb203a217",
+      "order": "-111",
+      "location": "content/a60b4df1-7e37-46f4-ba66-b44eb203a217.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Course Overview",
+      "parent": "a60b4df1-7e37-46f4-ba66-b44eb203a217",
+      "indent": 0,
+      "id": "f94c4a5f-e8dc-45f9-9a0a-ee54ce20cee1",
+      "order": "-109",
+      "location": "content/f94c4a5f-e8dc-45f9-9a0a-ee54ce20cee1.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Course Navigation (CCW, Canvas, VoiceThreads)",
+      "parent": "a60b4df1-7e37-46f4-ba66-b44eb203a217",
+      "indent": 0,
+      "id": "9165f3ca-c3a0-4b98-bd58-b1f2b28d4f21",
+      "order": "-103",
+      "location": "content/9165f3ca-c3a0-4b98-bd58-b1f2b28d4f21.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Your Instructor",
+      "parent": "a60b4df1-7e37-46f4-ba66-b44eb203a217",
+      "indent": 0,
+      "id": "57fbc800-1378-4aeb-bad8-9435a58358df",
+      "order": "-101",
+      "location": "content/57fbc800-1378-4aeb-bad8-9435a58358df.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Papers and PlanetHunters project",
+      "parent": "a60b4df1-7e37-46f4-ba66-b44eb203a217",
+      "indent": 0,
+      "id": "4daa0d0f-48f4-410e-9b97-61b722df1596",
+      "order": "-99",
+      "location": "content/4daa0d0f-48f4-410e-9b97-61b722df1596.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Instructions for PlanetHunters project ",
+      "parent": "4daa0d0f-48f4-410e-9b97-61b722df1596",
+      "indent": 0,
+      "id": "dd46b4ad-fe72-45b9-ab05-7c779bf402f5",
+      "order": "-87",
+      "location": "content/dd46b4ad-fe72-45b9-ab05-7c779bf402f5.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Instructions for Papers",
+      "parent": "4daa0d0f-48f4-410e-9b97-61b722df1596",
+      "indent": 0,
+      "id": "7b0daa16-be62-4eec-8f89-5aabc4e6e08e",
+      "order": "-97",
+      "location": "content/7b0daa16-be62-4eec-8f89-5aabc4e6e08e.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Paper 2 Topics",
+      "parent": "7b0daa16-be62-4eec-8f89-5aabc4e6e08e",
+      "indent": 0,
+      "id": "0653ed18-70e9-4d07-b9ca-51792b69feef",
+      "order": "-93",
+      "location": "content/0653ed18-70e9-4d07-b9ca-51792b69feef.html"
+    },
+    {
+      "uid": "79",
+      "type": "page",
+      "title": "Paper 1 Topics",
+      "parent": "7b0daa16-be62-4eec-8f89-5aabc4e6e08e",
+      "indent": 0,
+      "id": "0aa0e1bd-3921-473f-a359-a7787317b689",
+      "order": "-95",
+      "location": "content/0aa0e1bd-3921-473f-a359-a7787317b689.html"
+    },
+    {
+      "uid": "79",
+      "type": "page",
+      "title": "Rubrics for Scientific Papers",
+      "parent": "7b0daa16-be62-4eec-8f89-5aabc4e6e08e",
+      "indent": 0,
+      "id": "a5ac09d5-eaf3-4753-aefa-780f7952f1ab",
+      "order": "-91",
+      "location": "content/a5ac09d5-eaf3-4753-aefa-780f7952f1ab.html"
+    },
+    {
+      "uid": "79",
+      "type": "page",
+      "title": "Advice for Writing Assignments",
+      "parent": "7b0daa16-be62-4eec-8f89-5aabc4e6e08e",
+      "indent": 0,
+      "id": "2d63c61f-1fe9-4438-9cac-ce613c0e766b",
+      "order": "-89",
+      "location": "content/2d63c61f-1fe9-4438-9cac-ce613c0e766b.html"
+    },
+    {
+      "uid": "26",
+      "type": "page",
+      "title": "Instructions for PlanetHunters project (not yet available)",
+      "parent": "4daa0d0f-48f4-410e-9b97-61b722df1596",
+      "indent": 0,
+      "id": "cf723f7d-5d64-4127-9b1f-c13ae9b0851e",
+      "order": "-87",
+      "location": "content/cf723f7d-5d64-4127-9b1f-c13ae9b0851e.html"
+    },
+    {
+      "uid": "79",
+      "type": "page",
+      "title": "Assignment Deadlines & Other Important Dates ",
+      "parent": "a60b4df1-7e37-46f4-ba66-b44eb203a217",
+      "indent": 0,
+      "id": "45aa840b-8d20-4316-85c4-174cda3a7dcb",
+      "order": "-107",
+      "location": "content/45aa840b-8d20-4316-85c4-174cda3a7dcb.html"
+    },
+    {
+      "uid": "79",
+      "type": "page",
+      "title": "Textbook",
+      "parent": "a60b4df1-7e37-46f4-ba66-b44eb203a217",
+      "indent": 0,
+      "id": "3b00e8e4-8904-4559-a9f4-b31827ee5993",
+      "order": "-105",
+      "location": "content/3b00e8e4-8904-4559-a9f4-b31827ee5993.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Lessons",
+      "parent": "2c7e3a8f-861a-48f6-af04-7bafbfa74fdd",
+      "indent": 0,
+      "id": "d53f8e3b-612f-464c-a964-669b322e98e8",
+      "order": "-85",
+      "location": "content/d53f8e3b-612f-464c-a964-669b322e98e8.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Theme I: The Astronomical Context for Life",
+      "parent": "d53f8e3b-612f-464c-a964-669b322e98e8",
+      "indent": 0,
+      "id": "08961e33-ae08-4798-a230-ee78450deba2",
+      "order": "-83",
+      "location": "content/08961e33-ae08-4798-a230-ee78450deba2.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "How do we study life in the Universe?",
+      "parent": "08961e33-ae08-4798-a230-ee78450deba2",
+      "indent": 0,
+      "id": "eb4a0ab6-0714-40fe-af1a-c2e307419982",
+      "order": "-81",
+      "location": "content/eb4a0ab6-0714-40fe-af1a-c2e307419982.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "The Scientific Method",
+      "parent": "eb4a0ab6-0714-40fe-af1a-c2e307419982",
+      "indent": 0,
+      "id": "7671fca3-b3c4-4961-b3ca-bdb57bbe4169",
+      "order": "-79",
+      "location": "content/7671fca3-b3c4-4961-b3ca-bdb57bbe4169.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "The Rise of Modern Science",
+      "parent": "eb4a0ab6-0714-40fe-af1a-c2e307419982",
+      "indent": 0,
+      "id": "f09ba1d5-3920-4c64-87ca-d1988839ed5d",
+      "order": "-77",
+      "location": "content/f09ba1d5-3920-4c64-87ca-d1988839ed5d.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Historical Views on Life in the Universe",
+      "parent": "eb4a0ab6-0714-40fe-af1a-c2e307419982",
+      "indent": 0,
+      "id": "4ea690db-c6b5-4e3b-aa90-5ca45c8afffe",
+      "order": "-75",
+      "location": "content/4ea690db-c6b5-4e3b-aa90-5ca45c8afffe.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Cosmology: The History of the Universe",
+      "parent": "08961e33-ae08-4798-a230-ee78450deba2",
+      "indent": 0,
+      "id": "26adb3d3-2b82-4cc2-99fa-b99947046bbe",
+      "order": "-73",
+      "location": "content/26adb3d3-2b82-4cc2-99fa-b99947046bbe.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "The Big Bang Universe",
+      "parent": "26adb3d3-2b82-4cc2-99fa-b99947046bbe",
+      "indent": 0,
+      "id": "6d543acc-c157-46f1-9052-4189cc174821",
+      "order": "-71",
+      "location": "content/6d543acc-c157-46f1-9052-4189cc174821.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Galaxies and the Milky Way Galaxy",
+      "parent": "26adb3d3-2b82-4cc2-99fa-b99947046bbe",
+      "indent": 0,
+      "id": "193f5e7b-16dd-4e67-8262-d57bd68b85ff",
+      "order": "-69",
+      "location": "content/193f5e7b-16dd-4e67-8262-d57bd68b85ff.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "The Interstellar Medium and Molecules",
+      "parent": "26adb3d3-2b82-4cc2-99fa-b99947046bbe",
+      "indent": 0,
+      "id": "b904497c-3e30-4b4a-8ec5-ece8ea2fa5c3",
+      "order": "-67",
+      "location": "content/b904497c-3e30-4b4a-8ec5-ece8ea2fa5c3.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Stars: Energy for Life",
+      "parent": "08961e33-ae08-4798-a230-ee78450deba2",
+      "indent": 0,
+      "id": "9e8b67ca-9487-4796-91b4-f966368cf7d5",
+      "order": "-65",
+      "location": "content/9e8b67ca-9487-4796-91b4-f966368cf7d5.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Star Formation",
+      "parent": "9e8b67ca-9487-4796-91b4-f966368cf7d5",
+      "indent": 0,
+      "id": "386fb2fc-2d97-4b8e-a99d-da4b5d27ed2f",
+      "order": "-63",
+      "location": "content/386fb2fc-2d97-4b8e-a99d-da4b5d27ed2f.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Stellar Evolution",
+      "parent": "9e8b67ca-9487-4796-91b4-f966368cf7d5",
+      "indent": 0,
+      "id": "66e3e50c-3741-4712-8a76-139d93536118",
+      "order": "-61",
+      "location": "content/66e3e50c-3741-4712-8a76-139d93536118.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Red Giants:  'We are Starstuff'",
+      "parent": "9e8b67ca-9487-4796-91b4-f966368cf7d5",
+      "indent": 0,
+      "id": "8b2d787c-ce8a-4006-a37d-e1cf73eec243",
+      "order": "-59",
+      "location": "content/8b2d787c-ce8a-4006-a37d-e1cf73eec243.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Summary: The Astronomical Context for Life",
+      "parent": "9e8b67ca-9487-4796-91b4-f966368cf7d5",
+      "indent": 0,
+      "id": "7db524e4-294a-488d-9d85-c94567203d32",
+      "order": "-57",
+      "location": "content/7db524e4-294a-488d-9d85-c94567203d32.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Theme II Life on Earth",
+      "parent": "d53f8e3b-612f-464c-a964-669b322e98e8",
+      "indent": 0,
+      "id": "4777388f-1bdd-4a1a-b22b-e2308a12a10b",
+      "order": "-55",
+      "location": "content/4777388f-1bdd-4a1a-b22b-e2308a12a10b.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Origin of Life",
+      "parent": "4777388f-1bdd-4a1a-b22b-e2308a12a10b",
+      "indent": 0,
+      "id": "54716227-31d2-4f31-ac83-ef758dc6165e",
+      "order": "-53",
+      "location": "content/54716227-31d2-4f31-ac83-ef758dc6165e.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "What is Life?",
+      "parent": "54716227-31d2-4f31-ac83-ef758dc6165e",
+      "indent": 0,
+      "id": "619ceacc-4ac6-4bae-81bc-80106ffdbf5f",
+      "order": "-51",
+      "location": "content/619ceacc-4ac6-4bae-81bc-80106ffdbf5f.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Chemistry and the Origin of Life",
+      "parent": "54716227-31d2-4f31-ac83-ef758dc6165e",
+      "indent": 0,
+      "id": "d6417895-138c-4fb1-974c-719702fa05b9",
+      "order": "-49",
+      "location": "content/d6417895-138c-4fb1-974c-719702fa05b9.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "The Evolution of Life",
+      "parent": "4777388f-1bdd-4a1a-b22b-e2308a12a10b",
+      "indent": 0,
+      "id": "2441744a-d769-4de6-89d0-1f5a96cf22ea",
+      "order": "-47",
+      "location": "content/2441744a-d769-4de6-89d0-1f5a96cf22ea.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Life and Earth's Atmosphere",
+      "parent": "4777388f-1bdd-4a1a-b22b-e2308a12a10b",
+      "indent": 0,
+      "id": "f7248e62-9988-4489-86b0-53267dbb6299",
+      "order": "-45",
+      "location": "content/f7248e62-9988-4489-86b0-53267dbb6299.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Theme III: Life Elsewhere in the Solar System",
+      "parent": "d53f8e3b-612f-464c-a964-669b322e98e8",
+      "indent": 0,
+      "id": "4a47d24b-f76b-4057-936c-1f0eb5afd2b3",
+      "order": "-43",
+      "location": "content/4a47d24b-f76b-4057-936c-1f0eb5afd2b3.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Review of Our Solar System",
+      "parent": "4a47d24b-f76b-4057-936c-1f0eb5afd2b3",
+      "indent": 0,
+      "id": "6405c710-2ae1-4ba8-b8db-4f0eb0fcabb0",
+      "order": "-41",
+      "location": "content/6405c710-2ae1-4ba8-b8db-4f0eb0fcabb0.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "The Terrestrial Planets",
+      "parent": "6405c710-2ae1-4ba8-b8db-4f0eb0fcabb0",
+      "indent": 0,
+      "id": "37b22358-c326-4fa9-aa85-84d3eb7b0c42",
+      "order": "-37",
+      "location": "content/37b22358-c326-4fa9-aa85-84d3eb7b0c42.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Jovian Planets and Moons",
+      "parent": "6405c710-2ae1-4ba8-b8db-4f0eb0fcabb0",
+      "indent": 0,
+      "id": "b5aa91cf-5eaa-428f-97d9-abd964be8fe5",
+      "order": "-35",
+      "location": "content/b5aa91cf-5eaa-428f-97d9-abd964be8fe5.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Minor Bodies: Asteroids, Comets, Kuiper Belt Objects",
+      "parent": "6405c710-2ae1-4ba8-b8db-4f0eb0fcabb0",
+      "indent": 0,
+      "id": "119d5b4b-b998-4ff7-b56f-690f51e1b886",
+      "order": "-33",
+      "location": "content/119d5b4b-b998-4ff7-b56f-690f51e1b886.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Arrangement of Planets in our Solar System",
+      "parent": "6405c710-2ae1-4ba8-b8db-4f0eb0fcabb0",
+      "indent": 0,
+      "id": "7383760c-e8aa-4f06-be31-d6506b4762d9",
+      "order": "-39",
+      "location": "content/7383760c-e8aa-4f06-be31-d6506b4762d9.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "General Considerations",
+      "parent": "6405c710-2ae1-4ba8-b8db-4f0eb0fcabb0",
+      "indent": 0,
+      "id": "75e9be3e-35cf-4db7-84f8-c7bde8ad874a",
+      "order": "-31",
+      "location": "content/75e9be3e-35cf-4db7-84f8-c7bde8ad874a.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Jovian Moons",
+      "parent": "4a47d24b-f76b-4057-936c-1f0eb5afd2b3",
+      "indent": 0,
+      "id": "d31f0dd9-0d95-43e2-8210-e4bf2a97a5ee",
+      "order": "-27",
+      "location": "content/d31f0dd9-0d95-43e2-8210-e4bf2a97a5ee.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Life on Mars",
+      "parent": "4a47d24b-f76b-4057-936c-1f0eb5afd2b3",
+      "indent": 0,
+      "id": "11d8a8e6-0413-4592-89ce-66ec338a6f98",
+      "order": "-29",
+      "location": "content/11d8a8e6-0413-4592-89ce-66ec338a6f98.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Theme IV: Extrasolar Planetary Systems",
+      "parent": "d53f8e3b-612f-464c-a964-669b322e98e8",
+      "indent": 0,
+      "id": "8fa9b813-f4fa-4242-b4c7-2c3b31e6f890",
+      "order": "-25",
+      "location": "content/8fa9b813-f4fa-4242-b4c7-2c3b31e6f890.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "The Discovery of Exoplanets",
+      "parent": "8fa9b813-f4fa-4242-b4c7-2c3b31e6f890",
+      "indent": 0,
+      "id": "f82a9c2c-4761-4b2b-a59f-090a6ae08927",
+      "order": "-23",
+      "location": "content/f82a9c2c-4761-4b2b-a59f-090a6ae08927.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Direct Imaging Method",
+      "parent": "f82a9c2c-4761-4b2b-a59f-090a6ae08927",
+      "indent": 0,
+      "id": "a61a39de-608b-44fe-b61e-bfa6b114789e",
+      "order": "-21",
+      "location": "content/a61a39de-608b-44fe-b61e-bfa6b114789e.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Astrometry Method",
+      "parent": "f82a9c2c-4761-4b2b-a59f-090a6ae08927",
+      "indent": 0,
+      "id": "a73a2d54-f5af-4c0e-8e82-7247d4fb3376",
+      "order": "-19",
+      "location": "content/a73a2d54-f5af-4c0e-8e82-7247d4fb3376.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Radial Velocity Method",
+      "parent": "f82a9c2c-4761-4b2b-a59f-090a6ae08927",
+      "indent": 0,
+      "id": "2bfc11fe-c158-44f8-a862-b4f7c10dbe8e",
+      "order": "-17",
+      "location": "content/2bfc11fe-c158-44f8-a862-b4f7c10dbe8e.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Transit and Transit Timing Methods",
+      "parent": "f82a9c2c-4761-4b2b-a59f-090a6ae08927",
+      "indent": 0,
+      "id": "f629fea1-da80-4c95-820b-e91e3b5b0046",
+      "order": "-15",
+      "location": "content/f629fea1-da80-4c95-820b-e91e3b5b0046.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Microlensing Method",
+      "parent": "f82a9c2c-4761-4b2b-a59f-090a6ae08927",
+      "indent": 0,
+      "id": "de779f9c-1f91-4030-b2af-7f60304a5d58",
+      "order": "-13",
+      "location": "content/de779f9c-1f91-4030-b2af-7f60304a5d58.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Census and properties of exoplanets",
+      "parent": "8fa9b813-f4fa-4242-b4c7-2c3b31e6f890",
+      "indent": 0,
+      "id": "34bcfed4-38f1-431e-939d-458d05a39709",
+      "order": "-11",
+      "location": "content/34bcfed4-38f1-431e-939d-458d05a39709.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "The Exoplanetary Census Today",
+      "parent": "34bcfed4-38f1-431e-939d-458d05a39709",
+      "indent": 0,
+      "id": "d591e09d-9e51-4624-a494-9b68d6cae7de",
+      "order": "-9",
+      "location": "content/d591e09d-9e51-4624-a494-9b68d6cae7de.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "General Properties of Exoplanets",
+      "parent": "34bcfed4-38f1-431e-939d-458d05a39709",
+      "indent": 0,
+      "id": "11e9b65c-a6b0-40bc-b5fe-aa22e05c9678",
+      "order": "-7",
+      "location": "content/11e9b65c-a6b0-40bc-b5fe-aa22e05c9678.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Multiplanet Systems",
+      "parent": "34bcfed4-38f1-431e-939d-458d05a39709",
+      "indent": 0,
+      "id": "c43be840-0ae8-4649-82a3-d9e2bac50540",
+      "order": "-5",
+      "location": "content/c43be840-0ae8-4649-82a3-d9e2bac50540.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Exoplanet Composition",
+      "parent": "34bcfed4-38f1-431e-939d-458d05a39709",
+      "indent": 0,
+      "id": "094b144e-aafe-4823-a457-c1d7d2ac65fd",
+      "order": "-3",
+      "location": "content/094b144e-aafe-4823-a457-c1d7d2ac65fd.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Origin of Planetary Systems",
+      "parent": "8fa9b813-f4fa-4242-b4c7-2c3b31e6f890",
+      "indent": 0,
+      "id": "395e2d9f-8eb3-4284-aaef-8a91aa985e4c",
+      "order": "-1",
+      "location": "content/395e2d9f-8eb3-4284-aaef-8a91aa985e4c.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Protoplanetary Disks",
+      "parent": "395e2d9f-8eb3-4284-aaef-8a91aa985e4c",
+      "indent": 0,
+      "id": "edc5d989-e1c0-4301-ba9c-6ff8e7ec4544",
+      "order": "1",
+      "location": "content/edc5d989-e1c0-4301-ba9c-6ff8e7ec4544.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Planet formation and the early Solar System",
+      "parent": "395e2d9f-8eb3-4284-aaef-8a91aa985e4c",
+      "indent": 0,
+      "id": "f4d62d11-14a2-4966-89da-a43722518821",
+      "order": "3",
+      "location": "content/f4d62d11-14a2-4966-89da-a43722518821.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Explaining hot and eccentric Jupiters",
+      "parent": "395e2d9f-8eb3-4284-aaef-8a91aa985e4c",
+      "indent": 0,
+      "id": "7fc14608-6c7a-449b-9085-eee246660503",
+      "order": "5",
+      "location": "content/7fc14608-6c7a-449b-9085-eee246660503.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Conclusions: Exoplanets in the Galaxy",
+      "parent": "395e2d9f-8eb3-4284-aaef-8a91aa985e4c",
+      "indent": 0,
+      "id": "9bd35385-7ef9-4739-9d59-e94e1792d08c",
+      "order": "7",
+      "location": "content/9bd35385-7ef9-4739-9d59-e94e1792d08c.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Theme V: Life Around Other Stars",
+      "parent": "d53f8e3b-612f-464c-a964-669b322e98e8",
+      "indent": 0,
+      "id": "f9626ed3-c0f5-4537-8b9c-60194e659639",
+      "order": "9",
+      "location": "content/f9626ed3-c0f5-4537-8b9c-60194e659639.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Drake Equation: How many aliens are out there?",
+      "parent": "f9626ed3-c0f5-4537-8b9c-60194e659639",
+      "indent": 0,
+      "id": "9f768c45-7744-4872-856b-703114b50dcd",
+      "order": "11",
+      "location": "content/9f768c45-7744-4872-856b-703114b50dcd.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "How Far Away Are the Aliens?",
+      "parent": "f9626ed3-c0f5-4537-8b9c-60194e659639",
+      "indent": 0,
+      "id": "816d71b7-cbcf-4a3f-91a2-3532c3ec8f14",
+      "order": "13",
+      "location": "content/816d71b7-cbcf-4a3f-91a2-3532c3ec8f14.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Search for Extraterrestrial Intelligences (SETI)",
+      "parent": "f9626ed3-c0f5-4537-8b9c-60194e659639",
+      "indent": 0,
+      "id": "ac7aa3c6-8995-465e-b77a-d78d6f0bb094",
+      "order": "17",
+      "location": "content/ac7aa3c6-8995-465e-b77a-d78d6f0bb094.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Interstellar Travel: Very hard but not impossible",
+      "parent": "f9626ed3-c0f5-4537-8b9c-60194e659639",
+      "indent": 0,
+      "id": "3ef3327c-ca61-46c0-a97c-8d9b4e8133bf",
+      "order": "19",
+      "location": "content/3ef3327c-ca61-46c0-a97c-8d9b4e8133bf.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Colonizing the Galaxy",
+      "parent": "f9626ed3-c0f5-4537-8b9c-60194e659639",
+      "indent": 0,
+      "id": "95f08536-f148-4717-8bb6-46854b8f22c1",
+      "order": "21",
+      "location": "content/95f08536-f148-4717-8bb6-46854b8f22c1.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "UFOs:  Have aliens visited us?",
+      "parent": "f9626ed3-c0f5-4537-8b9c-60194e659639",
+      "indent": 0,
+      "id": "0265a06b-53c0-4be1-ad01-4aa7b0fe4361",
+      "order": "23",
+      "location": "content/0265a06b-53c0-4be1-ad01-4aa7b0fe4361.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Perspectives on Life in the Universe",
+      "parent": "f9626ed3-c0f5-4537-8b9c-60194e659639",
+      "indent": 0,
+      "id": "f98668a7-b525-4f6a-af35-91497dbc0f4e",
+      "order": "25",
+      "location": "content/f98668a7-b525-4f6a-af35-91497dbc0f4e.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "The view from our course",
+      "parent": "f98668a7-b525-4f6a-af35-91497dbc0f4e",
+      "indent": 0,
+      "id": "4ad83d3c-7b6f-4806-b60b-64e3b0e72f36",
+      "order": "27",
+      "location": "content/4ad83d3c-7b6f-4806-b60b-64e3b0e72f36.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "The Anthropic Principle: A Modern Philosophical View",
+      "parent": "f98668a7-b525-4f6a-af35-91497dbc0f4e",
+      "indent": 0,
+      "id": "ea69a419-5829-4800-87fc-02ae8f410c16",
+      "order": "29",
+      "location": "content/ea69a419-5829-4800-87fc-02ae8f410c16.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Creationism and Intelligent Design",
+      "parent": "f98668a7-b525-4f6a-af35-91497dbc0f4e",
+      "indent": 0,
+      "id": "60d8d615-125c-41d1-9ca7-9390c0d532ec",
+      "order": "31",
+      "location": "content/60d8d615-125c-41d1-9ca7-9390c0d532ec.html"
+    },
+    {
+      "uid": "79",
+      "type": "page",
+      "title": "How to Find Evidence of Non-Communicating Life on Exoplanets?",
+      "parent": "f9626ed3-c0f5-4537-8b9c-60194e659639",
+      "indent": 0,
+      "id": "139b6794-af7a-4586-982f-ce6bc9afb6bb",
+      "order": "15",
+      "location": "content/139b6794-af7a-4586-982f-ce6bc9afb6bb.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Resources",
+      "parent": "2c7e3a8f-861a-48f6-af04-7bafbfa74fdd",
+      "indent": 0,
+      "id": "cfe7a289-e774-45df-9a38-7e8bb84b083b",
+      "order": "33",
+      "location": "content/cfe7a289-e774-45df-9a38-7e8bb84b083b.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Tips for Succeeding in this Course",
+      "parent": "cfe7a289-e774-45df-9a38-7e8bb84b083b",
+      "indent": 0,
+      "id": "703df438-2f0c-43bf-9cdf-7ef167090683",
+      "order": "35",
+      "location": "content/703df438-2f0c-43bf-9cdf-7ef167090683.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Feigelson",
+      "parent": "cfe7a289-e774-45df-9a38-7e8bb84b083b",
+      "indent": 0,
+      "id": "570259f0-0661-4e73-83b0-f7fa070d2080",
+      "order": "37",
+      "location": "content/570259f0-0661-4e73-83b0-f7fa070d2080.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Introduction to the Solar System",
+      "parent": "570259f0-0661-4e73-83b0-f7fa070d2080",
+      "indent": 0,
+      "id": "78d47b3e-85d1-4840-a3a1-c50745c3e07c",
+      "order": "39",
+      "location": "content/78d47b3e-85d1-4840-a3a1-c50745c3e07c.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Life on Mars",
+      "parent": "570259f0-0661-4e73-83b0-f7fa070d2080",
+      "indent": 0,
+      "id": "b8f95f76-7f6e-47a8-9ea2-5581742cf0f4",
+      "order": "83",
+      "location": "content/b8f95f76-7f6e-47a8-9ea2-5581742cf0f4.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Census &amp; properties of Exoplanets",
+      "parent": "b8f95f76-7f6e-47a8-9ea2-5581742cf0f4",
+      "indent": 0,
+      "id": "1ad0c58f-868e-44d3-96bd-19a9c5492471",
+      "order": "85",
+      "location": "content/1ad0c58f-868e-44d3-96bd-19a9c5492471.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Habitability of Icy Moons",
+      "parent": "570259f0-0661-4e73-83b0-f7fa070d2080",
+      "indent": 0,
+      "id": "4639f808-f631-4bb1-9c68-0cc7363d7e3d",
+      "order": "53",
+      "location": "content/4639f808-f631-4bb1-9c68-0cc7363d7e3d.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Unit 1 Archived Pages",
+      "parent": "4639f808-f631-4bb1-9c68-0cc7363d7e3d",
+      "indent": 0,
+      "id": "490d1b1f-711c-4dcb-983e-61e692a83cd7",
+      "order": "55",
+      "location": "content/490d1b1f-711c-4dcb-983e-61e692a83cd7.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "The Anthropic Principle",
+      "parent": "490d1b1f-711c-4dcb-983e-61e692a83cd7",
+      "indent": 0,
+      "id": "a4763426-f126-4cbe-82e0-9b212f748f4d",
+      "order": "57",
+      "location": "content/a4763426-f126-4cbe-82e0-9b212f748f4d.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Galaxies: The Home of Stars and Planets",
+      "parent": "490d1b1f-711c-4dcb-983e-61e692a83cd7",
+      "indent": 0,
+      "id": "cfab2273-ea59-420a-8136-4799cf47a237",
+      "order": "59",
+      "location": "content/cfab2273-ea59-420a-8136-4799cf47a237.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Modern Cosmology: The Expanding Universe",
+      "parent": "490d1b1f-711c-4dcb-983e-61e692a83cd7",
+      "indent": 0,
+      "id": "89e15d6c-2850-4a2b-b535-5bf4ddb36cc4",
+      "order": "61",
+      "location": "content/89e15d6c-2850-4a2b-b535-5bf4ddb36cc4.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "The Interstellar Medium",
+      "parent": "490d1b1f-711c-4dcb-983e-61e692a83cd7",
+      "indent": 0,
+      "id": "e60fa17e-d37d-41aa-9f88-7db75adf4f10",
+      "order": "63",
+      "location": "content/e60fa17e-d37d-41aa-9f88-7db75adf4f10.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Interlude: Understanding Molecules",
+      "parent": "490d1b1f-711c-4dcb-983e-61e692a83cd7",
+      "indent": 0,
+      "id": "f34b1d4d-e013-4b5c-a019-fae950c8c6db",
+      "order": "65",
+      "location": "content/f34b1d4d-e013-4b5c-a019-fae950c8c6db.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Cosmology: The Story of the Universe",
+      "parent": "490d1b1f-711c-4dcb-983e-61e692a83cd7",
+      "indent": 0,
+      "id": "b56f6184-ad75-497a-ab1c-598f2bcb8753",
+      "order": "67",
+      "location": "content/b56f6184-ad75-497a-ab1c-598f2bcb8753.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Our Universe as a Home for Life",
+      "parent": "490d1b1f-711c-4dcb-983e-61e692a83cd7",
+      "indent": 0,
+      "id": "1b338093-85a8-4a35-887d-0936a7aec08e",
+      "order": "69",
+      "location": "content/1b338093-85a8-4a35-887d-0936a7aec08e.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "The Milky Way Galaxy",
+      "parent": "1b338093-85a8-4a35-887d-0936a7aec08e",
+      "indent": 0,
+      "id": "ba019b05-dde3-4bab-9ef3-3a4d7497dfd8",
+      "order": "71",
+      "location": "content/ba019b05-dde3-4bab-9ef3-3a4d7497dfd8.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Sidebar: Understanding Molecules",
+      "parent": "1b338093-85a8-4a35-887d-0936a7aec08e",
+      "indent": 0,
+      "id": "f23b1ef6-6772-4193-9115-7f579726496d",
+      "order": "73",
+      "location": "content/f23b1ef6-6772-4193-9115-7f579726496d.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Stars: Energy for Life",
+      "parent": "1b338093-85a8-4a35-887d-0936a7aec08e",
+      "indent": 0,
+      "id": "fb1ca1e6-cfa7-4ba5-b89f-ca6e9f32ac4d",
+      "order": "75",
+      "location": "content/fb1ca1e6-cfa7-4ba5-b89f-ca6e9f32ac4d.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "The Nature of Time",
+      "parent": "1b338093-85a8-4a35-887d-0936a7aec08e",
+      "indent": 0,
+      "id": "1c4e9075-8d69-4c58-9cb3-f20e1bc1132a",
+      "order": "77",
+      "location": "content/1c4e9075-8d69-4c58-9cb3-f20e1bc1132a.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "A Modern View",
+      "parent": "1b338093-85a8-4a35-887d-0936a7aec08e",
+      "indent": 0,
+      "id": "ccc750b7-5700-4735-81fe-1cb3b6fcfa97",
+      "order": "79",
+      "location": "content/ccc750b7-5700-4735-81fe-1cb3b6fcfa97.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Discussion: What is Life?",
+      "parent": "490d1b1f-711c-4dcb-983e-61e692a83cd7",
+      "indent": 0,
+      "id": "ea96af59-6d70-412f-9324-e3f5f33d674b",
+      "order": "81",
+      "location": "content/ea96af59-6d70-412f-9324-e3f5f33d674b.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Models of Planetary Systems",
+      "parent": "570259f0-0661-4e73-83b0-f7fa070d2080",
+      "indent": 0,
+      "id": "0638b16d-98cf-4271-8e08-baa56bc108f1",
+      "order": "87",
+      "location": "content/0638b16d-98cf-4271-8e08-baa56bc108f1.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Dust to Planetesimals to Protoplanets",
+      "parent": "0638b16d-98cf-4271-8e08-baa56bc108f1",
+      "indent": 0,
+      "id": "48eb0c5b-695b-4de6-b870-7e7d091755f0",
+      "order": "89",
+      "location": "content/48eb0c5b-695b-4de6-b870-7e7d091755f0.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Problems with Planet Formation Models",
+      "parent": "0638b16d-98cf-4271-8e08-baa56bc108f1",
+      "indent": 0,
+      "id": "12bb3d7e-2e34-4be6-9d46-0cb12730edec",
+      "order": "91",
+      "location": "content/12bb3d7e-2e34-4be6-9d46-0cb12730edec.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Tracing Water &amp; Organic Molecules",
+      "parent": "0638b16d-98cf-4271-8e08-baa56bc108f1",
+      "indent": 0,
+      "id": "1205a1f1-7ad6-4970-9273-6bf0424cfd57",
+      "order": "93",
+      "location": "content/1205a1f1-7ad6-4970-9273-6bf0424cfd57.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Life Around Other Stars",
+      "parent": "1205a1f1-7ad6-4970-9273-6bf0424cfd57",
+      "indent": 0,
+      "id": "d6e44efb-7c33-4c0c-9272-cb4beb578022",
+      "order": "95",
+      "location": "content/d6e44efb-7c33-4c0c-9272-cb4beb578022.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Searching for Extraterrestrial Life",
+      "parent": "d6e44efb-7c33-4c0c-9272-cb4beb578022",
+      "indent": 0,
+      "id": "2e6fbe06-1304-4070-bce4-3e375c02f79d",
+      "order": "97",
+      "location": "content/2e6fbe06-1304-4070-bce4-3e375c02f79d.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "SETI Radio Searches",
+      "parent": "2e6fbe06-1304-4070-bce4-3e375c02f79d",
+      "indent": 0,
+      "id": "c18faa00-476e-43d0-80b3-ed24ce37b0e8",
+      "order": "99",
+      "location": "content/c18faa00-476e-43d0-80b3-ed24ce37b0e8.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Interstellar Travel &amp; UFOs",
+      "parent": "d6e44efb-7c33-4c0c-9272-cb4beb578022",
+      "indent": 0,
+      "id": "0fd34126-e9c7-430c-b16c-a845d0298b38",
+      "order": "101",
+      "location": "content/0fd34126-e9c7-430c-b16c-a845d0298b38.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Life in Other Planetary Systems",
+      "parent": "d6e44efb-7c33-4c0c-9272-cb4beb578022",
+      "indent": 0,
+      "id": "7ceedc64-5b6a-47cc-bd1c-ebe933c85f51",
+      "order": "103",
+      "location": "content/7ceedc64-5b6a-47cc-bd1c-ebe933c85f51.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Drake Equation",
+      "parent": "7ceedc64-5b6a-47cc-bd1c-ebe933c85f51",
+      "indent": 0,
+      "id": "1ab63dab-898e-4490-b5fa-358894f34fdf",
+      "order": "105",
+      "location": "content/1ab63dab-898e-4490-b5fa-358894f34fdf.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Habitable Planets",
+      "parent": "7ceedc64-5b6a-47cc-bd1c-ebe933c85f51",
+      "indent": 0,
+      "id": "c58cdb7f-cdd5-41cf-933c-8fa344f73b95",
+      "order": "107",
+      "location": "content/c58cdb7f-cdd5-41cf-933c-8fa344f73b95.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Life in the Universe: A Discussion",
+      "parent": "d6e44efb-7c33-4c0c-9272-cb4beb578022",
+      "indent": 0,
+      "id": "32e7c3a7-0e43-4075-aa3b-74d5d3501206",
+      "order": "109",
+      "location": "content/32e7c3a7-0e43-4075-aa3b-74d5d3501206.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Conclusions: Is life prevalent in the Universe?",
+      "parent": "570259f0-0661-4e73-83b0-f7fa070d2080",
+      "indent": 0,
+      "id": "0edca4ce-f6f1-4928-8ded-caf3c0f810a6",
+      "order": "41",
+      "location": "content/0edca4ce-f6f1-4928-8ded-caf3c0f810a6.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Interlude: Life and Climate",
+      "parent": "570259f0-0661-4e73-83b0-f7fa070d2080",
+      "indent": 0,
+      "id": "92a27270-ac33-4834-b50b-52302bc02a45",
+      "order": "43",
+      "location": "content/92a27270-ac33-4834-b50b-52302bc02a45.html"
+    },
+    {
+      "uid": "79",
+      "type": "page",
+      "title": "PlanetHunters Project",
+      "parent": "570259f0-0661-4e73-83b0-f7fa070d2080",
+      "indent": 0,
+      "id": "9401058c-09fb-4005-bd2c-2538dd21e4df",
+      "order": "45",
+      "location": "content/9401058c-09fb-4005-bd2c-2538dd21e4df.html"
+    },
+    {
+      "uid": "56",
+      "type": "page",
+      "title": "Drupal media asset management",
+      "parent": "9401058c-09fb-4005-bd2c-2538dd21e4df",
+      "indent": 0,
+      "id": "9f600591-324c-4bd9-a72f-3f8da80812ee",
+      "order": "47",
+      "location": "content/9f600591-324c-4bd9-a72f-3f8da80812ee.html"
+    },
+    {
+      "uid": "79",
+      "type": "page",
+      "title": "Science Writing Papers",
+      "parent": "9401058c-09fb-4005-bd2c-2538dd21e4df",
+      "indent": 0,
+      "id": "f6b2e743-d40a-4128-a7eb-dcd11745f377",
+      "order": "49",
+      "location": "content/f6b2e743-d40a-4128-a7eb-dcd11745f377.html"
+    },
+    {
+      "uid": "79",
+      "type": "page",
+      "title": "Paper 2 topics",
+      "parent": "f6b2e743-d40a-4128-a7eb-dcd11745f377",
+      "indent": 0,
+      "id": "064f5c27-5dec-4267-accc-ac82f15e79dd",
+      "order": "51",
+      "location": "content/064f5c27-5dec-4267-accc-ac82f15e79dd.html"
+    }
+  ]
+}
